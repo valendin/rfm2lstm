@@ -12,4 +12,5 @@ A self-supervised sequence-to-sequence neural network model as described in the 
 Retail bank transaction data taken from https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions (trans.csv file only). This is a small dataset (fast training), with a strong aggregate monthly pattern.
 
 With comments or suggestions, contact https://www.linkedin.com/in/valendin/
+
 See LICENSE and AUTHORS file for details.
