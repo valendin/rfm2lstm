@@ -15,4 +15,4 @@ Retail bank transaction data taken from https://data.world/lpetrocelli/czech-fin
 
 If you apply the method on a dataset you're able to share openly, please send the notebook along with the data to valendin at gmail dot com and we can add it here. With any other comments or suggestions, contact https://www.linkedin.com/in/valendin/
 
-See LICENSE and AUTHORS file for details.
+See LICENSE and AUTHORS file for details. Please use [Valendin et al., 2022] as reference. 
