@@ -1,7 +1,7 @@
 pandas
 numpy
 tqdm
-tensorflow==2.6.0
+tensorflow
 tensorflow-probability
 matplotlib
 jupyter
