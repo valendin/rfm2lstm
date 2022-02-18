@@ -1,0 +1,8 @@
+pandas
+numpy
+tqdm
+tensorflow==2.6.0
+tensorflow-probability
+matplotlib
+jupyter
+notebook
